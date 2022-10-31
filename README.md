@@ -6,3 +6,4 @@ Easy deploy @ https://flaptogetherdemo.netlify.app
 
 # All objects remain in classes so that multiplayer capabilities can be easily added to future updates.
 
+# Currently Chrome only (due to SVG compatibility issues)
